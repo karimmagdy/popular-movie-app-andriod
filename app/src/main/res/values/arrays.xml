@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortingoptions">
+        <item>@string/action_sort_by_popularity</item>
+        <item>@string/action_sort_by_rating</item>
+    </string-array>
+    <string-array name="sortingvalues">
+        <item>@string/sortbypopularity</item>
+        <item>@string/sortbyrating</item>
+    </string-array>
+</resources>
